@@ -1,0 +1,2 @@
+py train.py
+pause
