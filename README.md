@@ -36,6 +36,8 @@ The `train.py` file will start going through all the different images and classi
 You will then see the `class_indices.json` file and when you open it you will see a list of every folder within `.../content/train/` and a number 
 There will also be a `model.keras` file which is used by the program to classify the images and then decide which class each image on the captcha belongs to
 
+# AT 100 STARS I'LL UPDATE THE SOLVER
+
 # CREDITS
 
 Me, AG597
